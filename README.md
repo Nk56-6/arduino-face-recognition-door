@@ -63,11 +63,11 @@ This was a group project, I worked with two of my coworkers for the creation of 
    - Upload your `.ino` sketch.
    
 7. **Connect the Arduino to the Raspberry Pi**
-   - Plug one end of the USB into one of the Raspberry Pi USB ports
-   - Plug the other end into the Arduino
+   - Plug one end of the USB Cable into one of the **Raspberry Pi** USB ports
+   - Plug the other end into the **Arduino**
 
 8. **Connect the Webcam**
-   - Plug the webcam into one of the USB ports on the Raspberry Pi
+   - Plug the **webcam** into one of the USB ports on the **Raspberry Pi**
 
 ## How It Works
 
@@ -75,10 +75,10 @@ This was a group project, I worked with two of my coworkers for the creation of 
     
 2.  The webcam is connected to the raspberry pi so the AI can use it to detect those authorized faces.
     
-3.  If an authorized face is detected by the AI, the handlePass() function activates. This function opens the door for a period of time, then locks it again. The 7-segment display will display a "hello" and "goodbye" message.
+3.  If an authorized face is detected by the AI, the ***handlePass()*** function activates. This function opens the door for a period of time, then locks it again. The 7-segment display will display a "*hello*" and "*goodbye*" message.
     
 
-4. If an unknown face is detected, the handleFail() function activates. This function then calls upon the intruder() function, which displays a different message on the 7-segment display.
+4. If an unknown face is detected, the ***handleFail()*** function activates. This function then calls upon the ***intruder()*** function, which displays a different message on the 7-segment display.
 
 ## Images / Videos
 
