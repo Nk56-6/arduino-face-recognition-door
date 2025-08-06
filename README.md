@@ -82,7 +82,10 @@ This was a group project, I worked with two of my coworkers for the creation of 
 
 ## Images / Videos
 
-- ![Project Setup](images/project-setup.jpg)
+- ![Project Setup](1000003000.jpg)
+- ![Project Setup](1000003005.jpg)
+- ![Project Setup](20250723_102309.jpg)
+- ![Project Setup](20250723_104529.jpg)
 
 ## Simulation
 
